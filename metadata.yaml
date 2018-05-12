@@ -1,0 +1,31 @@
+_repo: Hullun-yritys--Amerikalainen-historiallinen-romani_39491
+_version: 0.1.0
+alternative_title: A fool's errand. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tourgée, Albion Winegar
+    alias: Tourgee, Albion Winegar
+    birthdate: 1838
+    deathdate: 1905
+    gutenberg_agent_id: '1925'
+    url: http://www.gutenberg.org/2009/agents/1925
+    wikipedia: http://en.wikipedia.org/wiki/Albion_W._Tourgée
+description: 'Translation of: A Fool''s Errand'
+gutenberg_issued: '2012-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39491'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ku Klux Klan (19th century) -- Fiction'
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Fiction'
+- !lcc 'PS'
+title: 'Hullun yritys: Amerikalainen historiallinen romani'
+url: http://www.gutenberg.org/ebooks/39491
