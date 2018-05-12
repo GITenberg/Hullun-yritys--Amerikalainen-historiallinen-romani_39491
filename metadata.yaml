@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1925
     wikipedia: http://en.wikipedia.org/wiki/Albion_W._Tourgée
 description: 'Translation of: A Fool''s Errand'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39491#Hullun-yritys--Amerikalainen-historiallinen-romani
 gutenberg_issued: '2012-04-20'
 gutenberg_type: Text
 identifiers:
